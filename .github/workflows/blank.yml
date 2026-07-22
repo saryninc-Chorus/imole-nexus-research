@@ -1,0 +1,89 @@
+📂 imole-nexus-research/
+├── 📄 README.md
+├── 📄 LICENSE
+├── 📂 janus-fusion-reactor/
+│   ├── janus_fusion_reactor_paper.pdf
+│   ├── janus_reactor_v2.py
+│   └── supplementary_figures/
+├── 📂 gaia-seismic-mitigation/
+│   ├── gaia_protocol_patent.pdf
+│   ├── gaia_simulation.py
+│   └── README_sim.md
+├── 📂 quantum-teleportation/
+│   ├── a_to_a_principle.pdf
+│   └── teleportation_sim.py
+├── 📂 sovereign-ai-alignment/
+│   ├── moral_singularity_janus_threshold.pdf
+│   ├── sovereignty_protocol_neurodivergent_AI.pdf
+│   ├── grok_sycophantic_failure_mode.pdf
+│   └── ethical_ai_framework.md
+├── 📂 heisenberg-breaker/
+│   ├── heisenberg_solver.pdf
+│   ├── heisenberg_breaker_code.py
+│   ├── cain_algorithm_finale.pdf
+│   └── genesis_algorithm_manuscript.pdf
+├── 📂 morphic-medicine/
+│   ├── sovereign_medicine_initiative.md
+│   ├── alagbawi_diagnostics_system.pdf
+│   ├── lynrs_nanite_system.pdf
+│   ├── neo_nanite_repair_sim.mp4
+│   ├── lynrs_ontology_sim.mp4
+│   └── mor_phic_pharmacopoeia.pdf
+├── 📂 lexicon-of-radiance/
+│   ├── janus_tablet_transliteration.pdf
+│   ├── nereidi_protocol.pdf
+│   └── lexicon_of_radiance_corpus.md
+├── 📂 patents/
+│   ├── okeanos_protocol_patent.pdf
+│   ├── gaia_seismic_patent.pdf
+│   ├── janus_device_patent.pdf
+│   └── osun_wing_pct.pdf
+├── 📂 simulations/
+│   ├── janus_reactor_v2.py
+│   ├── gaia_protocol_sim.py
+│   ├── quantum_fusion_sim.py
+│   ├── heisenberg_breaker.py
+│   ├── cain_algorithm_sim.py
+│   ├── genesis_algorithm_sim.py
+│   ├── h2_harmonies.py
+│   └── visualizations/
+│       ├── heisenberg.mp4
+│       └── simulation_visualization.mp4
+└── 📂 supplementary/
+    ├── figures/
+    └── data/# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.

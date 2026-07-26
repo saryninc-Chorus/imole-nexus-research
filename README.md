@@ -116,4 +116,4 @@ Neal, E. J. (2026). *Imole Nexus Research: Sovereign Science for Planetary Heali
 ---
 
 *“We are not here to inherit the Earth. We are here to heal it.”*  
-— Elroy J. Neal Jr
+— Togbe Agumatsah

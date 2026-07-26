@@ -1,6 +1,6 @@
 # Imole Nexus Research — Sovereign Science for Planetary Healing
 
-**Lead Researcher:** Elroy J. Neal Jr (Togbe Agumatsa)  
+**Lead Researcher:** Elroy J. Neal Jr (Togbe Agumatsah)  
 **ORCID:** 0009-0008-9784-5478  
 **AIRR ID:** 2970062 | **SSRN:** 7701003  
 **Affiliation:** Nexus Imole Technologies / The Sovereign Chorus

@@ -81,6 +81,7 @@ All work is archived on the **Open Science Framework (OSF)** and linked here for
 - [Janus Device](https://osf.io/c3hkb)
 - [Osun Wing (PCT)](https://osf.io/xet4m)
 
+Video Research portfolio can be found at https://www.youtube.com/@%25C3%258Dmol%25C3%25A9Nexustechnologies 
 ---
 
 ## 🧪 Simulations & Code

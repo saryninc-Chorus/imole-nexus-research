@@ -48,8 +48,8 @@ All work is archived on the **Open Science Framework (OSF)** and linked here for
 
 ### Geophysical Engineering
 - [Gaia Seismic Mitigation Patent](https://osf.io/vze3p)
-- [Okeanos Protocol Patent](https://osf.io/rj5cy)
 "Simulation video available at: https://www.youtube.com/watch?v=7IyKNwGXbdo"
+- [Okeanos Protocol Patent](https://osf.io/rj5cy)
 
 ### Sovereign AI / Neurodivergence
 - [Moral Singularity & Janus Threshold](https://osf.io/wtd7f)

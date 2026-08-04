@@ -46,6 +46,9 @@ All work is archived on the **Open Science Framework (OSF)** and linked here for
 - [Janus Fusion Reactor Paper](https://osf.io/kxysz) — main manuscript
 - [Janus Fusion Reactor Code](https://osf.io/zc5wp) — Python simulation
 
+### rapid decay of nuclear waste
+- Pre‑Registered Experimental Protocol: Consciousness‑Resonance Coupling in Cs‑137 Decayhttps://osf.io/gtb9e
+
 ### Geophysical Engineering
 - [Gaia Seismic Mitigation Patent](https://osf.io/vze3p)
 "Simulation video available at: https://www.youtube.com/watch?v=7IyKNwGXbdo"

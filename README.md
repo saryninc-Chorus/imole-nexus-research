@@ -17,6 +17,7 @@ This repository houses the complete research portfolio of the **Imole Nexus Rese
 - Quantum foundations (Heisenberg Breaker, Cain/Genesis Algorithms, A‑to‑A teleportation)
 - Morphic medicine (Sovereign Medicine Initiative, Alágba̩wí diagnostics, LyNRS nanites)
 - Transliteration of ancient sovereign scripts (Lexicon of Radiance, Janus Tablet)
+- The rapid decay of nuclear waste within less than two decades(Consciousness‑Resonance Coupling in Cs‑137 Decay
 
 All work is archived on the **Open Science Framework (OSF)** and linked here for full reproducibility and open access.
 

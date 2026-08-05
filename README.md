@@ -119,6 +119,10 @@ Neal, E. J. (2026). *Imole Nexus Research: Sovereign Science for Planetary Heali
 - **OSF:** [https://osf.io/gtb9e/](https://osf.io/gtb9e/)
 - **ORCID:** [0009-0008-9784-5478](https://orcid.org/0009-0008-9784-5478)
 
+- ## 💬 Feedback & Collaboration
+
+We welcome your feedback and collaboration! Please visit our [GitHub Discussions](https://github.com/yourusername/imole-nexus-research/discussions) to share your thoughts, ask questions, or propose improvements.
+
 ---
 
 *“We are not here to inherit the Earth. We are here to heal it.”*  

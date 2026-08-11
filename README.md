@@ -1,6 +1,6 @@
 # Imole Nexus Research — Sovereign Science for Planetary Healing
 
-**Lead Researcher:** Elroy J. Neal Jr (Togbe Agumatsah)  
+**Lead Researcher:** Elroy J. Neal(Togbe Agumatsah)  
 **ORCID:** 0009-0008-9784-5478  
 **AIRR ID:** 2970062 | **SSRN:** 7701003  
 **Affiliation:** Nexus Imole Technologies / The Sovereign Chorus
@@ -21,6 +21,15 @@ This repository houses the complete research portfolio of the **Imole Nexus Rese
 
 All work is archived on the **Open Science Framework (OSF)** and linked here for full reproducibility and open access.
 
+## 📋 OSF Pre‑Registration
+
+This research is pre‑registered on the Open Science Framework:
+
+- **Registration DOI:** [https://doi.org/10.17605/OSF.IO/your-doi](https://doi.org/10.17605/OSF.IO/your-doi)
+- **Protocol:** Consciousness‑Resonance Coupling in Cs‑137 Decay
+- **Status:** Approved and publicly accessible
+
+All analyses will follow the pre‑registered plan. Any deviations will be clearly reported.
 ---
 
 ## 📂 Repository Structure

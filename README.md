@@ -21,9 +21,9 @@ This repository houses the complete research portfolio of the **Imole Nexus Rese
 
 All work is archived on the **Open Science Framework (OSF)** and linked here for full reproducibility and open access.
 
-## 📋 OSF Registration
+## 📋 OSF Pre-Registration
 
-This research is registered on the Open Science Framework:
+This research is Pre-registered on the Open Science Framework:
 
 - **Registration DOI:** [https://doi.org/10.17605/OSF.IO/your-doi](https://doi.org/10.17605/OSF.IO/your-doi)
 - **Protocol:** Consciousness‑Resonance Coupling in Cs‑137 Decay

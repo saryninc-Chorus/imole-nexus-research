@@ -25,7 +25,7 @@ All work is archived on the **Open Science Framework (OSF)** and linked here for
 
 This research is Pre-registered on the Open Science Framework:
 
-- **Registration DOI:** [https://doi.org/10.17605/OSF.IO/your-doi](https://doi.org/10.17605/OSF.IO/your-doi)
+- **Registration DOI:** https://osf.io/hdj69
 - **Protocol:** Consciousness‑Resonance Coupling in Cs‑137 Decay
 - **Status:** Approved and publicly accessible
 

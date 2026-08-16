@@ -120,6 +120,8 @@ Detailed documentation is provided in each sub‑folder.
 
 ### Rapid decay of nuclear waste
 - Pre‑Registered Experimental Protocol: Consciousness‑Resonance Coupling in Cs‑137 Decay https://osf.io/gtb9e
+### Plant based Cure for HIV
+- Pre-Registered Clinical Trial of Vita‑Resonance Therapy for HIV‑1 Remission and Cure http://doi.org/10.17605/OSF.IO/4ACZS
 ---
 
 ## 📄 Published / Preprint Manuscripts

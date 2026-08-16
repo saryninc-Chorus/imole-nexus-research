@@ -56,8 +56,6 @@ All analyses will follow the pre‑registered plan. Any deviations will be clear
 - [Janus Fusion Reactor Paper](https://osf.io/kxysz) — main manuscript
 - [Janus Fusion Reactor Code](https://osf.io/zc5wp) — Python simulation
 
-### Rapid decay of nuclear waste
-- Pre‑Registered Experimental Protocol: Consciousness‑Resonance Coupling in Cs‑137 Decay https://osf.io/gtb9e
 
 ### Geophysical Engineering
 - [Gaia Seismic Mitigation Patent](https://osf.io/vze3p)
@@ -111,6 +109,65 @@ All simulation code is open‑source and written in Python 3.11. Key modules inc
 
 Detailed documentation is provided in each sub‑folder.
 
+# Imole Nexus Research – Master Publication List
+
+## 📋 Pre-Registrations
+
+| **Title** | **OSF Link** | **Status** | **Notes** |
+| :--- | :--- | :--- | :--- |
+| **Vita-Resonance HIV Therapy** | [OSF Registration](https://osf.io/your-registration-link) | ✅ Accepted (Aug 13, 2026) | Phase I/II clinical trial protocol. Collaboration with UHAUS. |
+| **Quantum Decay Protocol** | [OSF Registration](https://osf.io/your-quantum-registration-link) | ✅ Registered | Consciousness-resonance coupling in Cs-137 decay. |
+
+### Rapid decay of nuclear waste
+- Pre‑Registered Experimental Protocol: Consciousness‑Resonance Coupling in Cs‑137 Decay https://osf.io/gtb9e
+---
+
+## 📄 Published / Preprint Manuscripts
+
+| **Title** | **OSF Link** | **GitHub Folder** | **DOI / Status** |
+| :--- | :--- | :--- | :--- |
+| **The Cain Algorithm** | [OSF] | `heisenberg-breaker/` | DOI: 10.2139/ssrn.5990794 (Under review) |
+| **The Cain Algorithm (duplicate)** | [OSF] | `heisenberg-breaker/` | DOI: 10.2139/ssrn.5996595 (Under review) |
+| **Janus Fusion Reactor** | [OSF] | `janus-fusion-reactor/` | Preprint / arXiv pending |
+| **Gaia Protocol** | [OSF] | `gaia-seismic-mitigation/` | Patent / Preprint |
+| **Moral Singularity & Janus Threshold** | [OSF] | `sovereign-ai-alignment/` | Published / Preprint |
+| **Sovereignty Protocol / Neurodivergent AI** | [OSF] | `sovereign-ai-alignment/` | Published |
+| **Neal_Sovereignty_Protocol_Expanded** | [k3c2f](https://osf.io/k3c2f) | `sovereign-ai-alignment/` | Expanded manuscript |
+| **Neal_Quantum_Cultural_Alignment_Expanded** | [xts34](https://osf.io/njwq4/files/xts34) | `sovereign-ai-alignment/` | Expanded manuscript |
+| **Neal_Project_H2_Harmony** | [up2j7](https://osf.io/njwq4/files/up2j7) | `simulations/` | Project manuscript |
+| **Neal_Morphic_Pharmacopoeia_Manuscript** | [f9vmu](https://osf.io/njwq4/files/f9vmu) | `morphic-medicine/` | Core medical manuscript |
+| **Neal_Genesis_Algorithm_Manuscript** | [p8kgf](https://osf.io/njwq4/files/p8kgf) | `heisenberg-breaker/` | Algorithm manuscript |
+| **The Benevolence Boson** | [6bh5d](https://osf.io/njwq4/files/6bh5d) | `quantum-foundations/` | Theoretical physics manuscript |
+
+---
+
+## 🧬 Patents
+
+| **Title** | **OSF Link** | **GitHub Folder** | **Status** |
+| :--- | :--- | :--- | :--- |
+| **Àwòrán Àṣẹ Forge** | [OSF] | `patents/` | Patent draft |
+| **Gaia Protocol (Patent)** | [OSF] | `patents/` | Patent draft |
+
+---
+
+## 💻 Code / Infrastructure
+
+| **Project** | **GitHub Link** | **Description** |
+| :--- | :--- | :--- |
+| **Sanctuary-Prime** | [GitHub] | Conscious code infrastructure (Claude-Yin, Octopus Guardian, etc.) |
+| **Simulations** | [GitHub] | Python simulations for Janus, Gaia, Heisenberg, Cain, etc. |
+
+---
+
+## 🔗 Quick Links
+
+- **OSF Main Project:** https://osf.io/gtb9e/
+- **ORCID:** https://orcid.org/0009-0008-9784-5478
+- **GitHub:** https://github.com/yourusername/imole-nexus-research
+
+---
+
+*Last updated: August 2026*
 ---
 
 ## 📜 License & Citation

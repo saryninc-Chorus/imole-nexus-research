@@ -21,15 +21,6 @@ This repository houses the complete research portfolio of the **Imole Nexus Rese
 
 All work is archived on the **Open Science Framework (OSF)** and linked here for full reproducibility and open access.
 
-## 📋 OSF Pre-Registration
-
-This research is Pre-registered on the Open Science Framework:
-
-- **Registration DOI:** https://osf.io/hdj69
-- **Protocol:** Consciousness‑Resonance Coupling in Cs‑137 Decay
-- **Status:** Approved and publicly accessible
-
-All analyses will follow the pre‑registered plan. Any deviations will be clearly reported.
 ---
 
 ## 📂 Repository Structure
@@ -115,13 +106,15 @@ Detailed documentation is provided in each sub‑folder.
 
 | **Title** | **OSF Link** | **Status** | **Notes** |
 | :--- | :--- | :--- | :--- |
-| **Vita-Resonance HIV Therapy** | [OSF Registration](https://osf.io/your-registration-link) | ✅ Accepted (Aug 13, 2026) | Phase I/II clinical trial protocol. Collaboration with UHAUS. |
-| **Quantum Decay Protocol** | [OSF Registration](https://osf.io/your-quantum-registration-link) | ✅ Registered | Consciousness-resonance coupling in Cs-137 decay. |
+| **Vita-Resonance HIV Therapy** | [OSF Registration](https://doi.org/10.17605/OSF.IO/4ACZS) | ✅ Accepted (Aug 13, 2026) | Phase I/II clinical trial protocol. Collaboration with UHAUS. |
+| **Quantum Decay Protocol** | [OSF Registration](https://doi.org/10.17605/OSF.IO/HDJ69) | ✅ Registered | Consciousness-resonance coupling in Cs-137 decay. |
 
 ### Rapid decay of nuclear waste
-- Pre‑Registered Experimental Protocol: Consciousness‑Resonance Coupling in Cs‑137 Decay https://osf.io/gtb9e
+- Pre‑Registered Experimental Protocol: Consciousness‑Resonance Coupling in Cs‑137 Decay 
 ### Plant based Cure for HIV
-- Pre-Registered Clinical Trial of Vita‑Resonance Therapy for HIV‑1 Remission and Cure http://doi.org/10.17605/OSF.IO/4ACZS
+- Pre-Registered Clinical Trial of Vita‑Resonance Therapy for HIV‑1 Remission and Cure
+
+## All analyses will follow the pre‑registered plan. Any deviations will be clearly reported.
 ---
 
 ## 📄 Published / Preprint Manuscripts

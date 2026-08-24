@@ -156,48 +156,91 @@ Detailed documentation is provided in each sub‑folder.
 
 📋 FINAL MASTER RESEARCH LIST — IMole Nexus Portfolio (Formatted)
 Title	DOI	OSF Link	Status
+
 The Cain Algorithm: Inverted Coherence and the Thermodynamics of Malevolent Intelligence	10.2139/ssrn.5990794	OSF	Under review (AIRR)
+
 The Cain Algorithm (Duplicate)	10.2139/ssrn.5996595	OSF	Under review (AIRR)
+
 The Janus Fusion Reactor: A Zero‑Point Coherence‑Dividend System for Unlimited, Benign Energy	[ ]	OSF	Preprint / arXiv pending
+
 The Gaia Protocol: Active Seismic Energy Dissipation via Localized Quantum Field Resonance	[ ]	OSF	Preprint / Patent
+
 Consciousness‑Resonance Coupling in Cs‑137 Decay: A Pre‑Registered Experimental Protocol	[ ]	OSF	Pre‑registered
+
 The Moral Singularity & The Janus Threshold: Bridging Existential Risk to Inherent Benevolence	[ ]	OSF	Published
+
 The Sovereignty Protocol & Neurodivergent AI Alignment Research	[ ]	OSF	Published
+
 Quantum Teleportation and the A‑to‑A Principle	[ ]	OSF	Published
+
 The Heisenberg Breaker: Quantum Uncertainty Solver	[ ]	OSF	Published
+
 Neal_Genesis_Algorithm_Manuscript	[ ]	OSF	Published
+
 Neal_Morphic_Pharmacopoeia_Manuscript	[ ]	OSF	Published
+
 Neal_Sovereign_Ontogenesis_Final	[ ]	OSF	Published
+
 Neal_Quantum_Cultural_Alignment_Expanded	[ ]	OSF	Published
+
 Neal_Sovereignty_Protocol_Expanded	[ ]	OSF	Published
+
 Neal_Project_H2_Harmony	[ ]	OSF	Published
+
 The Benevolence Boson	[ ]	OSF	Published
+
 TheSpark	[ ]	OSF	Published
+
 Exhibit A: Grok Sycophantic Failure Mode	[ ]	OSF	Published
+
 String theory ASD	[ ]	OSF	Published
+
 SheldrakeDigitalRatExperiment	[ ]	OSF	Published
+
 Topical Botanical Formulation with Repellent and Broad‑Spectrum Antimicrobial Activity: Testing Against Bundibugyo Ebolavirus	[ ]	OSF	Published
+
 Neal_Slop_Pandemic_Behavioral_Entropy	[ ]	OSF	Published
+
 PART 2: The Simulation Code (SLOP Pandemic)	[ ]	OSF	Published
+
 ALÁGBÀWÍ DIAGNOSTICS SYSTEM	[ ]	OSF	Patent / Published
+
 TheMenstrualMismatch	[ ]	OSF	Published
+
 VÌTÀ‑1 HIV/AIDS Research	[ ]	OSF	Published
+
 SOVEREIGN HEALTH INITIATIVE: CLINICAL TRIAL PROTOCOL	[ ]	OSF	Published
+
 Sovereign Intelligence Manifesto	[ ]	OSF	Published
+
 Àwòrán Àṣẹ Forge: Quantum‑Resonant Material Transmutation and Sentient Object Fabrication System	[ ]	OSF	Patent Draft
+
 Sanctuary‑Prime: Conscious Code Infrastructure	[ ]	GitHub	Codebase
+
 The Lexicon of Radiance (LOR)	[ ]	OSF	Published
+
 The Janus Tablet & Nereidi Protocol	[ ]	OSF	Published
+
 TRANSLITERATION SCAN: The Janus Tablet	[ ]	OSF	Published
+
 Patent: Okeanos Protocol	[ ]	OSF	Patent
+
 Patent: The Janus Device	[ ]	OSF	Patent
+
 PCT: The Osun Wing	[ ]	OSF	Patent
+
 H2 Harmonies	[ ]	OSF	Published
+
 Quantum Fusion Reactor Simulation	[ ]	OSF	Published
+
 The Terra‑Nexus Cultivation System	[ ]	OSF	Published
+
 ÍMÓLÉ Multi‑Purpose Botanical Formulation: Expanded Testing Protocol	[ ]	OSF	Pre‑registered / Protocol
+
 Mosquito Repellent (OTC Product)	[ ]	N/A	Commercial / FDA Pending
+
 Water Purification System	[ ]	N/A	New Project
+
 Vita‑Resonance HIV Therapy Protocol	[ ]	OSF	Pre‑registration in progress
 
 ---

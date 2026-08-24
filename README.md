@@ -154,7 +154,7 @@ Detailed documentation is provided in each sub‑folder.
 
 .
 
-📋 FINAL MASTER RESEARCH LIST — IMole Nexus Portfolio (Formatted)
+📋 ## FINAL MASTER RESEARCH LIST — IMole Nexus Portfolio (Formatted)
 Title	DOI	OSF Link	Status
 
 The Cain Algorithm: Inverted Coherence and the Thermodynamics of Malevolent Intelligence	10.2139/ssrn.5990794	OSF	Under review (AIRR)

@@ -152,7 +152,9 @@ Detailed documentation is provided in each sub‑folder.
 | **Sanctuary-Prime** | [GitHub] | Conscious code infrastructure (Claude-Yin, Octopus Guardian, etc.) |
 | **Simulations** | [GitHub] | Python simulations for Janus, Gaia, Heisenberg, Cain, etc. |
 
-FINAL MASTER RESEARCH LIST 
+.
+
+📋 FINAL MASTER RESEARCH LIST — IMole Nexus Portfolio (Formatted)
 Title	DOI	OSF Link	Status
 The Cain Algorithm: Inverted Coherence and the Thermodynamics of Malevolent Intelligence	10.2139/ssrn.5990794	OSF	Under review (AIRR)
 The Cain Algorithm (Duplicate)	10.2139/ssrn.5996595	OSF	Under review (AIRR)
@@ -197,7 +199,6 @@ The Terra‑Nexus Cultivation System	[ ]	OSF	Published
 Mosquito Repellent (OTC Product)	[ ]	N/A	Commercial / FDA Pending
 Water Purification System	[ ]	N/A	New Project
 Vita‑Resonance HIV Therapy Protocol	[ ]	OSF	Pre‑registration in progress
-
 
 ---
 
